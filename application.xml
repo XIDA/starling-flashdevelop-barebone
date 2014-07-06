@@ -50,8 +50,8 @@
 		<content>StarlingFlashDevelopBarebone.swf</content>
 		<visible>true</visible>
 		<fullScreen>true</fullScreen>
-		<!--<autoOrients>false</autoOrients>-->
-		<!--<aspectRatio>landscape</aspectRatio>-->
+		<autoOrients>false</autoOrients>
+		<aspectRatio>landscape</aspectRatio>
 		<renderMode>direct</renderMode>
 		<!--<depthAndStencil>true</depthAndStencil>--> <!-- required for 3D -->
 	</initialWindow>
